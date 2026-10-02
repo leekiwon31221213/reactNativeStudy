@@ -58,7 +58,7 @@ const LESSON_LIST = [
   "카드를 밀어서 삭제하고 드래그하는 인터랙션 만들기",
   "목록 추가·삭제 애니메이션 만들기",
   "Skeleton·Toast·Loading·Haptic 인터랙션 만들기",
-  "앱 안에서 웹페이지 띄우기",
+  "앱에서 웹페이지 여는 방법 비교하기",
   "React Native와 WebView 사이에서 데이터 주고받기",
   "Google·Apple·Kakao 같은 소셜 로그인 연결하기",
   "앱 전체 오류와 예상하지 못한 예외 상황 처리하기",

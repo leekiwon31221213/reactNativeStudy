@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "stockNewsApp",
+    "name": "reactNativeStudy",
     "slug": "stockNewsApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "scheme": "stocknewsapp",
+    "scheme": "reactnativestudy",
     "userInterfaceStyle": "automatic",
     "icon": "./assets/images/logo.png",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.stocknewsapp.mobile",
+      "bundleIdentifier": "com.reactNativeStudy.mobile",
       "associatedDomains": ["applinks:stocknews.com"],
       "infoPlist": {
         "NSCameraUsageDescription": "카메라 사용 권한 필요",

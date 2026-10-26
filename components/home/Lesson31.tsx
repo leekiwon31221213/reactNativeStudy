@@ -6,7 +6,7 @@ export function Lesson31() {
       <Text style={styles.lessonTitle}>31차시 - Expo Go와 실제 개발용 앱 빌드 차이 이해하기</Text>
 
       <Text>Expo Go → 공용 테스트 앱</Text>
-      <Text>Development Build → 내 stockNewsApp 전용 테스트 앱</Text>
+      <Text>Development Build → 내 reactNativeStudy 전용 테스트 앱</Text>
 
       <View>
         <Text>Expo Go로 충분한 것</Text>
